@@ -20,6 +20,16 @@ A simple weather application built using **HTML, CSS, and JavaScript**.
 
 ## Project Structure
 
+```text
+Weather-Application/
+├── weather.html
+├── weather.css
+├── weather.js
+├── search.png
+├── heavy-rain.png
+├── humidity.png
+└── smoke.png
+```
 
 
 ## How to Run
